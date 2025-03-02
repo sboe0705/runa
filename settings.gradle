@@ -1,2 +1,3 @@
 rootProject.name = 'runa'
 include 'runa-server'
+include 'runa-client'
